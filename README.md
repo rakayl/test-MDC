@@ -14,3 +14,46 @@
 - php artisan serve 
 
 
+Admin
+email = admin@gmail.com
+password = password 
+
+poli umum
+email = umum@gmail.com
+password = password 
+
+poli anak
+email = anak@gmail.com
+password = password 
+
+poli gigi_mulut
+email = gigi_mulut@gmail.com
+password = password 
+
+poli obgyn
+email = obgyn@gmail.com
+password = password 
+
+poli penyakit_dalam
+email = penyakit_dalam@gmail.com
+password = password 
+
+poli saraf
+email = saraf@gmail.com
+password = password 
+
+poli tht
+email = tht@gmail.com
+password = password 
+
+poli jantung
+email = jantung@gmail.com
+password = password 
+
+poli mata
+email = mataf@gmail.com
+password = password 
+
+poli pendaftaran
+email = pendaftaran@gmail.com
+password = password 
