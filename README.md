@@ -1,7 +1,10 @@
 
 ## Instalasi
 
-
+- Laravel Framework = 11
+- PHP Version 8.2
+- Node v20.18.3
+- npm verison 11.4.1
 - Clone Repository
 - Composer Install
 - npm install --legacy-peer-deps
